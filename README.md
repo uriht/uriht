@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://akauriht.netlify.app/](https://akauriht.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://selvan.netlify.app/](https://selvan.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@akauriht](https://medium.com/@akauriht)
 
