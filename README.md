@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://akauriht.netlify.app/)
+z[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://akauriht.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Thirukkural Selvan</h1>
 <h3 align="center">DevOps enthusiast and AWS Certified Cloud Practitioner on a mission to create positive change through technology</h3>
@@ -13,15 +13,11 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://selvan.netlify.app/](https://selvan.netlify.app/)
-
 - 📝 I regularly write articles on [https://medium.com/@akauriht](https://medium.com/@akauriht)
 
 - 💬 Ask me about **AWS , DevOps , React JS**
 
 - 📫 How to reach me **akauriht@gmail.com**
-
-- 📄 Know about my experiences [http://tiny.cc/resumeda](http://tiny.cc/resumeda)
 
 - ⚡ Fun fact **Did you know that the first computer virus was created in 1983 and was called "Elk Cloner"? It was written by a 15-year-old student named Richard Skrenta as a prank and was designed to infect Apple II operating systems via floppy disks. This fun fact showcases the importance of cybersecurity and the need for continuous vigilance in protecting computer systems from malware and viruses.**
 
